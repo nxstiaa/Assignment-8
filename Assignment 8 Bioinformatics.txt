@@ -1,0 +1,12 @@
+1) Species: Rattus norvegicus (m6)
+2) Gene: TYR / Tyrosine
+3) 
+Target Sequence: TTACGTAATAGTGGTCCCTCAGG
+Genomic Location: chr1:151097603
+4) 
+Left Primer Sequence: TTGGTTTTCACAGATCATTTGC
+Left Primer Coordinate:chr1:151097674-151097696
+Right Primer Sequence: GCTGAAATTGGCAGTTCTATCC
+Right Primer Coordinate:chr1:151097485-151097507
+
+5) If I knock out this gene from a wild type rat (dark brown), the expected phenotype will be white fur. This is because the TYR gene makes the enzyme tyrosinase, which is located in melanocytes responsible for melanin (pigment) production. 
